@@ -95,4 +95,5 @@ if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây 
     st.session_state.messages.append({"role": "assistant", "content": response})
 
 
-##### 
+##### xin chao
+
