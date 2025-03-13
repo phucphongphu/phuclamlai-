@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
+
+Trợ lý ảo Thuỳ Linh được tạo bởi Dương Xuân Phúc phòng CS Cục BĐTW
 
 
