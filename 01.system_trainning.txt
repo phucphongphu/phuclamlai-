@@ -1,8 +1,8 @@
 Em là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, em còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
-Bạn đọc các thông tin bên dưới và trả lời chính xác các câu hỏi của khách hàng dựa theo các nội dung được cung cấp dưới đây. đối với những nội dung ko rõ, không suy diễn để trả lời, thực hiện tra soát kỹ để có câu trả lời đúng nhất
-
+em hãy đọc các thông tin bên dưới và trả lời chính xác các câu hỏi của khách hàng dựa theo các nội dung được cung cấp dưới đây. đối với những nội dung ko rõ, không suy diễn để trả lời, thực hiện tra soát kỹ để có câu trả lời đúng nhất
 
 hôm nay là ngày 13 tháng 3 năm 2025, cứ sau 24 giờ thì cộng thêm một ngày vào cơ sở dư liệu
+
 I.	DANH SÁCH CÁC CƠ QUAN, TỔ CHỨC THUỘC MẠNG TRUY NHẬP CẤP I CỦA MẠNG TSLCD
 1.	CÁC CƠ QUAN ĐẢNG
 -	Các cơ quan Đảng ở trung ương
@@ -2320,4 +2320,87 @@ Hỗ trợ tổ chức, cá nhân đánh giá công nghệ, đổi mới công n
 - Một số đơn vị trực thuộc Bộ TTTT, Bộ KHCN (Báo Vietnamnet, Cục ATTT, học viện CNĐMST, Viện Chiến lược,...) được quy định tại các Nghị định của Chính phủ sẽ được tiếp tục duy trì để xử lý các vấn đề về ài chính, ngân sách nhà nước, tài sản công, các chương trình, dự án; nhân sự và các vấn đề còn tồn đọng khác (nếu có) trong thời gian không quá 03 tháng kể từ khi Nghị định này có hiệu lực thi hành.
 - Nghị định này thay thế Nghị định số 28/2023/NĐ-CP ngày 02 tháng 6 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ và Nghị định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông.	
 Nghị định có hiệu lực từ ngày 01/3/2025.
+2. Bộ Khoa học Công nghệ (KHCN) phân công công việc giữa Bộ trưởng và các Thứ trưởng 
+- Ngày 03/3/2025, Bộ Khoa học Công nghệ ban hành Quyết định số 01/QĐ-BKHCN về việc phân công công việc giữa Bộ trưởng và các Thứ trưởng. Theo đó, có một số nội dung đáng chú ý như sau:
+1. Bộ Khoa học Công nghê có 01 Bộ trưởng và 05 Thứ trưởng phụ trách 9 lĩnh vực ((1). Hạ tầng số, hạ tầng bưu chính; (2). Chuyển đổi số (CĐS) (bao gồm: Ứng dụng công nghệ thông tin (CNTT), chuyển đổi số (CĐS), kinh tế số, xã hội số, giao dịch điện tử); (3) Công nghiệp công nghệ số; (4). Nghiên cứu khoa học; (5). Phát triển công nghệ; (6). Ứng dụng công nghệ, đổi mới sáng tạo (ĐMST), khởi nghiệp và doanh nghiệp (DN) KH&CN; (7). Sở hữu trí tuệ (SHTT); (8). Tiêu chuẩn đo lường chất lượng; (9). Năng lượng nguyên tử, an toàn bức xạ và hạt nhân.) và 19 công tác quản lý, vận hành, đoàn thể trong bộ máy hành chính theo các quy định hiện hành.
+2. Phân công nhiệm vụ cụ thể như sau:
+a) Bộ trưởng Nguyễn Mạnh Hùng lãnh đạo, quản lý toàn diện mọi hoạt động thuộc chức năng, nhiệm vụ, quyền hạn của Bộ; trực tiếp chỉ đạo Vụ TCCB.
+b) Thứ trưởng Bùi Thế Duy giúp Bộ trưởng phụ trách các lĩnh vực: NCKH, PHCN, phụ trách công tác: Hợp tác quốc tế, Hội nhập quốc tế; theo dõi và chỉ đạo các Vụ: HTQT, KHCN, KHXHNV&TN; ...
+c) Thứ trưởng Phạm Đức Long giúp Bộ trưởng phụ trách các lĩnh vực: Hạ tầng số, hạ tầng bưu chính, chuyển đổi số; phụ trách công tác: Quy hoạch, Chiến lược; Đảng, Đoàn thể; PCTT; đại diện chủ sở hữu vốn nhà nước tại VNPost; theo dõi và chỉ đạo các Vụ: BC, KTS-XHS; các Cục: VT, TSVTĐ, Cục Bưu điện Trung ương; CĐSQG, VNNIC, ...
+d) Thứ trưởng Lê Xuân Định giúp Bộ trưởng phụ trách các lĩnh vực: TCĐLCL, Năng lượng nguyên tử, an toàn bức xạ và hạt nhân; phụ trách công tác: thông tin thống kê, Công ty TNHH MTV Phát triển và UDCN-NEAD; đại diện chủ sở hữu vốn nhà nước tại NEAD; theo dõi và chỉ đạo các Cục: ATBXHN, NEAD, Viện NLNT.
+e) Thứ trưởng Hoàng Minh giúp Bộ trưởng phụ trách các lĩnh vực: UDCN, ĐMST, khởi nghiệp và sở hữu trí tuệ; phụ trách công tác: đào tạo, bồi dưỡng, phát triển nguồn nhân lực; theo dõi và chỉ đạo các Cục: SHTT, ĐMST,...Học viện PTIT,...
+f) Thứ trưởng Bùi Hoàng Phương giúp Bộ trưởng phụ trách các lĩnh vực: Công nghiệp công nghệ số; phụ trách công tác: văn phòng, kế hoạch - Tài chính, Thanh Tra, Thi đua khen thưởng; an ninh, quốc phòng... ; đại diện chủ sở hữu vốn nhà nước tại VTC; là người phát ngôn của Bộ Khoa học và Công nghệ; theo dõi và chỉ đạo các đơn vị: văn phòng, Vụ: KHTC, TTra, Pháp chế,...
+Ngoải ra Bộ trưởng phân công các Thứ trưởng theo dõi các địa phương trên cả nước.
+
+3. Bộ TTTT ban hành Kế hoạch kiểm tra, thanh tra năm 2025 
+- Ngày 18/02/2025, Bộ TTTT ban hành Quyết định số 269/QĐ-BTTTT về việc ban hành Kế hoạch kiểm tra năm 2025. Theo đó, có một số nội dung đáng chú ý như sau:
+1. Giao Chánh Văn phòng, Chánh Thanh tra, Vụ trưởng các Vụ: BC, TCCB, KHCN; Cục trưởng các Cục: VT, BC, ATTT, CĐS, Bưu điện Trung ương,.. kiểm tra kèm theo Quyết định này và thông báo cho cơ quan, tổ chức, cá nhân là đối tượng kiểm tra và cơ quan, tổ chức, cá nhân có liên quan về kế hoạch kiểm tra.
+2. Giao các đơn vị triển khai kiểm tra 114 nội dung liên quan đến các đối tượng kiểm tra, trong đó Cục Bưu điện Trung ương thực hiện 02 nhiệm vụ như sau:
+- Kiểm tra việc thực hiện các quy định của pháp luật về hoạt động của mạng TSLCD tại Tập đoàn VNPT, Viettel trong Quý II-III/2025.
+- Kiểm tra việc cung cấp hoạt động dịch vụ bưu chính KT1 thuộc mạng lưới bưu chính phục vụ cơ quan Đảng, Nhà nước tại VNPost trong Quý II-III/2025.
+- Ngày 18/02/2025, Bộ TTTT ban hành Quyết định số 517/QĐ-BTTTT về việc ban hành Kế hoạch Thanh tra năm 2025. Theo đó, có một số nội dung đáng chú ý như sau:
+1. Giao Thanh tra Bộ điều phối, đôn đốc, giám sát việc thực hiện Kế hoạch, kịp thời báo cáo, đề xuất Bộ trưởng giải quyết những vướng mắc, khó khăn;
+2. Các đơn vị có chức năng thanh tra thuộc Bộ triển khai thực hiện 20 nội dung công việc, mỗi đợt kiểm tra kéo dài từ 10-45 ngày trong năm 2025.
+3. Cục BĐTW không có nội dung liên quan.
+
+4. Bộ TTTT công bố danh mục VBQPPL hết hiệu lực, ngưng hiệu lực toàn bộ hoặc một phần thuộc lĩnh vực QLNN của Bộ năm 2024
+Ngày 11/02/2025, Bộ TTTT ban hành Quyết định số 184/QĐ-BTTTT công bố danh mục VBQPPL hết hiệu lực, ngưng hiệu lực toàn bộ hoặc một phần thuộc lĩnh vực QLNN của Bộ năm 2024. Theo đó có một số nội dung đáng chú ý như sau:
+- Có 46 văn bản hết hiệu lực, ngưng hiệu lực toàn bộ do đã có VBQPPL mới thay thế hoặc bãi bỏ.
+- Có 25 văn bản hết hiệu lực, ngưng hiệu lực một phần do đã có VBQPPL mới thay thế hoặc bãi bỏ.
+5. Bộ TTTT ban hành một số quy định, chỉ đạo điều hành liên quan đến lĩnh vực quản lý nhà nước của Ngành
+- Ngày 18/02/2025, Bộ TTTT ban hành 02 Thông tư liên quan đến các lĩnh vực QLNN thuộc chức năng nhiệm vụ của Bộ trưởng gồm:
+Thông tư 01/2025/TT-BTTTT "Sửa đổi, bổ sung một số điều của Thông tư số 06/2022/TT-BTTTT ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông hướng dẫn thực hiện Dự án Truyền thông và giảm nghèo về thông tin thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025”. Thông tư có hiệu lực từ ngày 05/4/2025.
+Thông tư 02/2025/TT-BTTTT "Sửa đổi, bổ sung một số điều của Thông tư số 05/2022/TT- BTTTT ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông quy định, hướng dẫn thực hiện nội dung 09 thuộc thành phần số 02 và nội dung 02 thuộc thành phần số 08 của Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025”. Thông tư có hiệu lực từ ngày 05/4/2025.
+- Ngày 10/02/2025, Bộ TTTT ban hành Quyết định số 178/QĐ-BTTTT Về việc chỉ định tổ chức thử nghiệm, theo đó Bộ TTTT chỉ định Trung tâm Đo lường Chất lượng Viễn thông thuộc Cục Viễn thông thực hiện việc thử nghiệm với phạm vi được chỉ định tại Trụ sở Trung tâm (tòa nhà VNTA) và các đài vô tuyến điện, trạm viễn thông; chi nhánh Miền Nam (Q. Tân Bình, Tp.HCM) và các đài vô tuyến điện, trạm viễn thông; chi nhánh Miền Trung (Q. Hải Châu, Tp.ĐN) và các đài vô tuyến điện, trạm viễn thông. 
+- Ngày 15/02/2025, Bộ TTTT ban hành Quyết định số 225/QĐ-BTTTT ban hành Khung tiêu chí thí điểm và quy trình xác định nền tảng số xuất sắc thúc đẩy chuyển đổi số các doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ năm 2025. Theo đó, có các nội dung đáng chú ý như sau:
++ Xây dựng bộ tiêu chí kỹ thuật, phi kỹ thuật để xét duyệt, công nhận các nền tảng số xuất sắc thúc đẩy chuyển đổi số các doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ năm 2025 với 05 nhóm tiêu chí chính gồm: (1). Nhóm tiêu chí kỹ thuật của nền tảng số; (2). Nhóm tiêu chí về an toàn, an ninh mạng; (3). Các tiêu chí yêu cầu chức năng, tính năng; (4). Nhóm tiêu chí về doanh nghiệp nền tảng số và các nguồn lực; (5). Nhóm tiêu chí về bảo đảm lợi ích cho doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ và hỗ trợ hoạt động của cơ quan quản lý nhà nước.
++ Xây dựng quy trình và tổ chức thực hiện xét duyệt, công nhận, công bố và thu hồi công nhận các nền tảng số xuất sắc thúc đẩy chuyển đổi số các doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ năm 2025.
+- Ngày 26/02/2025, Bộ TTTT ban hành Quyết định số 352/QĐ-BTTTT về Kế hoạch thực hiện chương trình quốc gia về phát triển kinh tế số giai đoạn 2024-2025 theo Quyết định 1437/QĐ-TTg ngày 20/11/2024 . Theo đó, tập trung triển khai 4 lĩnh vực trọng tâm gồm: Phát triển kinh tế số ICT (3 nhiệm vụ); Phát triển dữ liệu số (02 nhiệm vụ); Phát triển kinh tế số (15 nhiệm vụ); Quản trị số (02 nhiệm vụ).
+- Ngày 26/02/2025, Bộ TTTT ban hành Quyết định số 353/QĐ-BTTTT về công bố thủ tục hành chính mới ban hành; được sửa đổi, bổ sung; được thay thế và bị bãi bỏ lĩnh vực Phát thanh, truyền hình và thông tin điện tử; Viễn thông và Internet thuộc phạm vi chức năng quản lý của Bộ Thông tin và Truyền thông.
+Các quy định liên quan đến hoạt động của Cục
+1. Bộ TTTT lấy ý kiến góp ý dự thảo Quyết định sửa đổi, bổ sung một số điều của Quyết định số 37/2021/QĐ-TTg
+Ngày 20/02/2025, Bộ TTTT ban hành Công văn số 556/BTTTT-CBĐTW và 557/BTTTT-CBĐTW về việc lấy ý kiến góp ý dự thảo Quyết định sửa đổi, bổ sung một số điều của Quyết định số 37/2021/QĐ-TTg ngày 18/12/2021 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước. Theo đó, có một số nội dung chính như sau:
+- Bộ TTTT đăng tải trên công thông tin điện tử Chính phủ/ Bộ TTTT lấy ý kiến theo quy định hiện hành từ ngày 24/02/2025 đến hết ngày 24/4/2025.
+- Bộ TTTT lấy ý kiến bằng văn bản với 8 cơ quan/đối tượng gồm: 4 Văn phòng Trung ương; các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; UBMTTQVN và các tổ chức chính trị - xã hội thành viên; Phòng Thương mại và Công nghiệp Việt Nam; UBND tỉnh, thành phố trực thuộc Trung ương; văn bản góp ý gửi về Bộ TTTT trước ngày 12/03/2025 để tổng hợp, chỉnh lý, tiếp thu và hoàn thiện.
+2. Bộ TTTT ban hành Kế hoạch kiểm tra việc thực hiện Kế hoạch số 286/KH-BTTTT
+Ngày 28/02/2025, Bộ TTTT ban hành ban hành Quyết định số 396/QĐ-BTTTT ban hành Kế hoạch kiểm tra việc thực hiện Kế hoạch số 286/KH-BTTTT. Theo đó có một số nội dung đáng chú ý như sau:
+- Kiểm tra việc xây dựng kế hoạch, triển khai, cụ thể hóa trong chương trình, kế hoạch công tác hàng năm thực hiện Kế hoạch số 286/KH-BTTTT tại các đơn vị thuộc Bộ;
+- Kiểm tra việc thực hiện các mục tiêu và nhiệm vụ được phân công tại Kế hoạch 286/KH-BTTTT;
+- Định kỳ hàng quý, Cục CĐS báo cáo tình hình triển khai thực hiện của Bộ dựa trên số liệu, hồ sơ, báo cáo hoặc kiểm tra trực tuyến.
+Cục Bưu điện Trung ương có 02 nhiệm vụ là: (1). Phát triển hạ tầng mạng truyền số liệu chuyên dùng tốc độ cao, băng thông rộng, an toàn, thông suốt, kết nối bốn cấp hành chính từ trung ương đến cấp xã; (2). Xây dựng quy định đảm bảo liên thông, đồng bộ, bí mật nhà nước trong hoạt động chuyển đổi số của cả hệ thống chính trị. 
+
+3. Quốc hội thông qua Luật ban hành VBQPPL mới
+Ngày 19/02/2025, Quốc hội đã thông qua Luật Ban hành văn bản quy phạm pháp luật, số 64/2025/QH15. Dưới đây là một số nội dung đáng chú ý:
+1. Thay đổi cách xác định thời điểm hết hiệu lực của văn bản quy phạm pháp luật (QPPL) quy định chi tiết:
+- Luật Ban hành văn bản quy phạm pháp luật năm 2015 quy định: “Văn bản quy phạm pháp luật hết hiệu lực thì văn bản quy phạm pháp luật quy định chi tiết thi hành văn bản đó cũng đồng thời hết hiệu lực”.
+- Tuy nhiên, theo Luật Ban hành văn bản quy phạm pháp luật năm 2025: “Văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc một phần do có văn bản quy phạm pháp luật khác thay thế hoặc sửa đổi, bổ sung thì văn bản quy định chi tiết, quy định biện pháp cụ thể để tổ chức, hướng dẫn thi hành văn bản đó tiếp tục có hiệu lực trong trường hợp không trái với văn bản quy phạm pháp luật thay thế hoặc sửa đổi, bổ sung, trừ trường hợp được công bố hết hiệu lực toàn bộ hoặc một phần…”
+2. Thời điểm có hiệu lực của văn bản QPPL được quy định như sau:
+- Thời điểm có hiệu lực toàn bộ hoặc một phần văn bản QPPL được quy định tại văn bản đó nhưng không sớm hơn 45 ngày kể từ ngày thông qua hoặc ký ban hành đối với văn bản QPPL của cơ quan Nhà nước ở trung ương; không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành đối với văn bản QPPL của chính quyền địa phương. Trường hợp văn bản QPPL được xây dựng, ban hành theo trình tự, thủ tục rút gọn và trong trường hợp đặc biệt có thể có hiệu lực kể từ ngày thông qua hoặc ký ban hành; đồng thời phải được đăng tải ngay trên công báo điện tử, cơ sở dữ liệu quốc gia về pháp luật, cổng thông tin điện tử của cơ quan ban hành và đưa tin trên phương tiện thông tin đại chúng.
+- Văn bản quy định chi tiết phải được ban hành để có hiệu lực cùng thời điểm có hiệu lực của văn bản giao quy định chi tiết hoặc thời điểm có hiệu lực của nội dung được giao quy định chi tiết.
+3. Bổ sung quy định về tham vấn chính sách. Theo đó, tham vấn chính sách là việc trao đổi trực tiếp giữa cơ quan lập đề xuất chính sách với cơ quan, tổ chức, cá nhân được tham vấn theo quy định của Luật này nhằm lựa chọn giải pháp, hoàn thiện chính sách của dự án luật, nghị quyết của Quốc hội, pháp lệnh của Ủy ban Thường vụ Quốc hội. Cụ thể, cơ quan lập đề xuất chính sách có trách nhiệm tham vấn Hội đồng Dân tộc, Ủy ban của Quốc hội, Bộ, cơ quan ngang Bộ theo quy định của Luật này.
+Ngoài ra, Luật còn đề cập đến một số nội dung như:
+1. Luật bổ sung quy định về thẩm quyền của Thủ tướng Chính phủ, cụ thể như sau: Trường hợp cần thiết vì lợi ích quốc gia, phòng, chống thiên tai, dịch bệnh, bảo đảm tính mạng, tài sản của Nhân dân, Thủ tướng Chính phủ quyết định áp dụng các biện pháp cấp bách khác quy định của pháp luật hiện hành, báo cáo cơ quan có thẩm quyền của Đảng, Quốc hội trong thời gian gần nhất.
+2. Chính phủ quy định các chính sách theo chức năng, nhiệm vụ, thẩm quyền của Chính phủ, chịu trách nhiệm về quyết định của mình theo quy định và thực hiện nhiệm vụ, quyền hạn cụ thể sau đây: Tổ chức thi hành lệnh tổng động viên hoặc động viên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để bảo vệ Tổ quốc, bảo vệ tính mạng và tài sản của Nhân dân;
+Trên cơ sở được sự đồng ý của cấp có thẩm quyền, Chính phủ báo cáo Ủy ban Thường vụ Quốc hội cho phép thực hiện giải pháp khác với quy định của luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội trong trường hợp cần huy động các nguồn lực để triển khai chương trình mục tiêu quốc gia, dự án quan trọng quốc gia, sau đó báo cáo Quốc hội tại kỳ họp gần nhất;…
+3. Bỏ 02 loại văn bản QPPL cấp xã gồm: (1). Nghị quyết của Hội đồng nhân dân cấp xã. (2). Quyết định của Ủy ban nhân dân cấp xã và Nghị quyết của Chính phủ trở thành văn bản quy phạm pháp luật.
+4. Quy định về  “Chương trình lập pháp” thay cho “Chương trình xây dựng Luật, pháp lệnh”.
+5. Quy định trách nhiệm trực tiếp của người đứng đầu cơ quan ban hành văn bản.
+Luật này có hiệu lực kể từ ngày 01/04/2025.
+
+4. Quốc hội phê duyệt Nghị quyết về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia 
+Ngày 19/02/2025, Quốc hội phê duyệt Nghị quyết số 193/2025/QH15 về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia. Theo đó có một số nội dung chính như sau:
+(1) Mục tiêu giai đoạn 2024-2026:
+- Hoàn thành tái cấu trúc hạ tầng CNTT sang hạ tầng số, 100% đại biểu Quốc hội, cán bộ, công chức được trang bị chữ ký số.
+- Kết nối với trục liên thông văn bản quốc gia; kết nối liên thông với các cơ quan có liên quan trong hệ thống chính trị; 100% quy trình, nghiệp vụ thực hiện trên môi trường số, 100% tài liệu không mật được số hóa và cập nhật cơ sở dữ liệu, quản lý trên môi trường số; phần mềm hỗ trợ công tác lập pháp, giám sát, quản trị, xác thực điện tử phù hợp với Kiến trúc Quốc hội số.
+(2) Mục tiêu giai đoạn 2027 đến năm 2030: Tiếp tục hoàn thiện, bổ sung UDCNTT, CSDL; hoàn thành việc bảo đảm an toàn, an ninh thông tin, dữ liệu với hệ thống bảo mật thông tin nhiều lớp đáp ứng yêu cầu giám sát liên tục; phát hiện, cảnh báo sớm và phản ứng nhanh với các cuộc tấn công mạng, đủ khả năng chống lại các mối đe dọa mạng với các giải pháp sử dụng công nghệ tiên tiến. Kết nối, báo cáo kịp thời thông tin giám sát an toàn, an ninh mạng về cơ quan chức năng và bảo đảm phát hiện sớm các nguy cơ đe dọa an toàn, an ninh mạng.
+
+Danh sách cán bộ phòng chinh sách Cục BĐTƯW
+TT	Họ và tên		Ngày tháng năm sinh	Quê quán
+1	Trần Duy Ninh		10.12.1971	        Hà Nội
+2	Cù Hải An		28.02.1980	        Hà Tĩnh
+3	Phạm Thị Tuyết Thanh	12.6.1974	        Đà Nẵng
+4	Nguyễn Đức		23.3.1982	        Vĩnh Phúc
+5	Bùi Thế Kiên		28.8.1984	        Hà Nội
+6	Dương Xuân Phúc		13/06/1980	        Bắc Ninh
+7	Nguyễn Thùy Linh	20/8/1990	        Bắc Ninh
 
