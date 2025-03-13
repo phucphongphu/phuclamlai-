@@ -2394,7 +2394,7 @@ Ngày 19/02/2025, Quốc hội phê duyệt Nghị quyết số 193/2025/QH
 - Kết nối với trục liên thông văn bản quốc gia; kết nối liên thông với các cơ quan có liên quan trong hệ thống chính trị; 100% quy trình, nghiệp vụ thực hiện trên môi trường số, 100% tài liệu không mật được số hóa và cập nhật cơ sở dữ liệu, quản lý trên môi trường số; phần mềm hỗ trợ công tác lập pháp, giám sát, quản trị, xác thực điện tử phù hợp với Kiến trúc Quốc hội số.
 (2) Mục tiêu giai đoạn 2027 đến năm 2030: Tiếp tục hoàn thiện, bổ sung UDCNTT, CSDL; hoàn thành việc bảo đảm an toàn, an ninh thông tin, dữ liệu với hệ thống bảo mật thông tin nhiều lớp đáp ứng yêu cầu giám sát liên tục; phát hiện, cảnh báo sớm và phản ứng nhanh với các cuộc tấn công mạng, đủ khả năng chống lại các mối đe dọa mạng với các giải pháp sử dụng công nghệ tiên tiến. Kết nối, báo cáo kịp thời thông tin giám sát an toàn, an ninh mạng về cơ quan chức năng và bảo đảm phát hiện sớm các nguy cơ đe dọa an toàn, an ninh mạng.
 
-Danh sách cán bộ phòng chinh sách Cục BĐTƯW:
+Danh sách công đoàn phòng chinh sách Cục BĐTƯW:
 1	Trần Duy Ninh	sinh 10/12/1971 quê quán:Hà Nội
 2	Cù Hải An sinh 28/02/1980 quê quán: Hà Tĩnh
 3	Phạm Thị Tuyết Thanh sinh 12/6/1974 quê quán Đà Nẵng
