@@ -2140,9 +2140,7 @@ Các quy định trước đây trái với Quy định này đều được bã
 Trong quá trình triển khai thực hiện sẽ chỉnh sửa để phù hợp với các quy định của pháp luật về bưu chính./.
 
  
-Phụ lục 01: DANH SÁCH CÁC CƠ QUAN, TỔ CHỨC Ở TRUNG ƯƠNG
-(Kèm theo Quy định nghiệp vụ về điều hành, khai thác Mạng bưu chính KT1 ban hành theo Quyết định số              /QĐ-CBĐTW  ngày         tháng      năm 2023)
-STT	CƠ QUAN, TỔ CHỨC
+Phụ lục 01: danh sách các cơ quan, tổ chức ở Trung ương được sử dụng mạng bưu chính KT1
 I	CÁC CƠ QUAN ĐẢNG
 1	Các Ban Đảng của Trung ương
 1.1		Văn phòng Trung ương Đảng 
@@ -2208,9 +2206,7 @@ III	MẶT TRẬN TỔ QUỐC VÀ CÁC TỔ CHỨC CHÍNH TRỊ - XÃ HỘI THÀN
 2.3		Đoàn Thanh niên Cộng sản Hồ Chí Minh
 2.4		Hội Liên hiệp phụ nữ Việt Nam
 2.5		Hội Cựu chiến binh Việt Nam
-Phụ lục 02: DANH SÁCH CƠ QUAN, TỔ CHỨC Ở ĐỊA PHƯƠNG
-(Kèm theo Quy định nghiệp vụ về điều hành, khai thác Mạng bưu chính KT1 ban hành theo Quyết định số              /QĐ-CBĐTW  ngày         tháng      năm 2023)
-STT	CƠ QUAN, TỔ CHỨC
+Phụ lục 02: danh sách các cơ quan, tổ chức ở địa phương được sử dụng mạng bưu chính KT1
 I	CẤP TỈNH
 1		Tỉnh ủy, thành ủy và các Ban của tỉnh ủy, thành ủy
 1.1	Tỉnh ủy, thành ủy
@@ -2243,48 +2239,48 @@ I	CẤP TỈNH
 5.18	Sở Ngoại vụ
 5.19	Ban Dân tộc
 5.20	Sở Quy hoạch – Kiến trúc
-6		Tòa án nhân dân
-7		Viện kiểm sát nhân dân
-8		Bộ chỉ huy Quân sự
-9		Ngân hàng nhà nước
-10		Công an
-11		Bảo hiểm xã hội
-12		Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên 
+6	Tòa án nhân dân
+7	Viện kiểm sát nhân dân
+8	Bộ chỉ huy Quân sự
+9	Ngân hàng nhà nước
+10	Công an tỉnh
+11	Bảo hiểm xã hội
+12	Mặt trận Tổ quốc tỉnh và các tổ chức chính trị - xã hội thành viên 
 12.1	Mặt trận Tổ quốc
 12.2	Liên đoàn Lao động 
 12.3	Hội Nông dân 
 12.4	Đoàn Thanh niên 
 12.5	Hội Liên hiệp phụ nữ 
 12.6	Hội Cựu chiến binh 
-II	 CẤP HUYỆN
-1		Huyện ủy
-2		Hội đồng nhân dân
-3		Ủy ban nhân dân 
-4		Tòa án nhân dân
-5		Viện kiểm sát nhân dân
-6		Ban chỉ huy quân sự
-7		Công an
-8		Bảo hiểm xã hội
-9		Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
+II	danh sách các cơ quan, tổ chức ở cấp huyện được sử dụng mạng bưu chính KT1
+1	Huyện ủy
+2	Hội đồng nhân dân
+3	Ủy ban nhân dân 
+4	Tòa án nhân dân huyện
+5	Viện kiểm sát nhân dân huyện
+6	Ban chỉ huy quân sự huyện
+7	Công an huyện
+8	Bảo hiểm xã hội
+9	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
 9.1	Mặt trận Tổ quốc
 9.2	Liên đoàn Lao động 
 9.3	Hội Nông dân 
 9.4	Đoàn Thanh niên 
 9.5	Hội Liên hiệp phụ nữ 
 9.6	Hội Cựu chiến binh 
-III	CẤP XÃ
-1		Đảng ủy
-2		Hội đồng nhân dân
-3		Ủy ban nhân dân 
-4		Công an
-5		Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
+III	danh sách các cơ quan, tổ chức ở cấp xã được sử dụng mạng bưu chính KT1
+
+1	Đảng ủy
+2	Hội đồng nhân dân
+3	Ủy ban nhân dân 
+4	Công an
+5	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
 5.1	Mặt trận Tổ quốc
 5.3	Hội Nông dân 
 5.4	Đoàn Thanh niên 
 5.5	Hội Liên hiệp phụ nữ 
 5.6	Hội Cựu chiến binh 
 IV	ĐƠN VỊ HÀNH CHÍNH KINH TẾ ĐẶC BIỆT
-CỤC BƯU ĐIỆN TRUNG ƯƠNG
 
 Ngày 02/3/2025, Chính phủ ban hành Nghị định số 55/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ. Theo đó, có một số nội dung đáng chú ý như sau:
 1. Bộ Khoa học và Công nghệ thực hiện các nhiệm vụ, quyền hạn theo quy định của Luật Tổ chức Chính phủ, quy định của Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ và các nhiệm vụ, quyền hạn cụ thể sau đây:
