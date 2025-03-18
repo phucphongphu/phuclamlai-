@@ -2141,7 +2141,7 @@ Trong quá trình triển khai thực hiện sẽ chỉnh sửa để phù hợp
 
  
 Phụ lục 01: danh sách các cơ quan, tổ chức ở Trung ương được sử dụng mạng bưu chính KT1
-I	CÁC CƠ QUAN ĐẢNG
+I	CÁC CƠ QUAN ĐẢNG được sử dụng mạng bưu chính KT1
 1	Các Ban Đảng của Trung ương
 1.1		Văn phòng Trung ương Đảng 
 1.2		Ủy ban Kiểm tra Trung ương
@@ -2158,67 +2158,68 @@ I	CÁC CƠ QUAN ĐẢNG
 2.4		Đảng ủy Công an Trung ương
 3	Hội đồng Lý luận Trung ương; Ban bảo vệ, Chăm sóc sức khỏe Cán bộ Trung ương
 4	Học viện Chính trị Quốc gia Hồ Chí Minh, Báo Nhân dân, Tạp chí Cộng sản
-II	CÁC CƠ QUAN NHÀ NƯỚC
+II	CÁC CƠ QUAN NHÀ NƯỚC được sử dụng mạng bưu chính KT1
 1	Các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội, Văn phòng Quốc hội
 2	Văn phòng Chủ tịch nước
-3	Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ 
-3.1		Bộ Công Thương
-3.2		Bộ Kế hoạch và Đầu tư
-3.3		Bộ Lao động - Thương binh và Xã hội
-3.4		Bộ Ngoại giao
-3.5		Bộ Tài chính
-3.6		Bộ Thông tin và Truyền thông
-3.7		Bộ Văn hóa, Thể thao và Du lịch
-3.8		Bộ Công an
-3.9		Bộ Nội vụ
-3.10		Bộ Tư pháp
-3.11		Bộ Giáo dục và Đào tạo
-3.12		Bộ Giao thông vận tải
-3.13		Bộ Khoa học và Công nghệ
-3.14		Bộ Nông nghiệp và Phát triển nông thôn
-3.15		Bộ Tài nguyên và Môi trường
-3.16		Bộ Xây dựng
-3.17		Bộ Y tế
-3.18		Bộ Quốc phòng
-3.19		Văn phòng Chính phủ
-3.20		Ủy ban Dân tộc
-3.21		Ngân hàng Nhà nước
-3.22		Thanh tra Chính phủ
-3.23		Thông tấn xã Việt Nam
-3.24		Đài Truyền hình Việt Nam
-3.25		Đài Tiếng nói Việt Nam
-3.26		Ban Quản lý lăng Chủ tịch Hồ Chí Minh
-3.27		Bảo hiểm xã hội Việt Nam
-3.28		Viện Hàn lâm Khoa học Xã hội Việt Nam
-3.29		Viện Hàn lâm Khoa học và Công nghệ Việt Nam
-3.30		Ủy ban Quản lý vốn nhà nước tại doanh nghiệp
+3	Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ được sử dụng mạng bưu chính KT1
+3.1	Bộ Công Thương
+3.2	Bộ Kế hoạch và Đầu tư
+3.3	Bộ Lao động - Thương binh và Xã hội
+3.4	Bộ Ngoại giao
+3.5	Bộ Tài chính
+3.6	Bộ Thông tin và Truyền thông
+3.7	Bộ Văn hóa, Thể thao và Du lịch
+3.8	Bộ Công an
+3.9	Bộ Nội vụ
+3.10	Bộ Tư pháp
+3.11	Bộ Giáo dục và Đào tạo
+3.12	Bộ Giao thông vận tải
+3.13	Bộ Khoa học và Công nghệ
+3.14	Bộ Nông nghiệp và Phát triển nông thôn
+3.15	Bộ Tài nguyên và Môi trường
+3.16	Bộ Xây dựng
+3.17	Bộ Y tế
+3.18	Bộ Quốc phòng
+3.19	Văn phòng Chính phủ
+3.20	Ủy ban Dân tộc
+3.21	Ngân hàng Nhà nước
+3.22	Thanh tra Chính phủ
+3.23	Thông tấn xã Việt Nam
+3.24	Đài Truyền hình Việt Nam
+3.25	Đài Tiếng nói Việt Nam
+3.26	Ban Quản lý lăng Chủ tịch Hồ Chí Minh
+3.27	Bảo hiểm xã hội Việt Nam
+3.28	Viện Hàn lâm Khoa học Xã hội Việt Nam
+3.29	Viện Hàn lâm Khoa học và Công nghệ Việt Nam
+3.30	Ủy ban Quản lý vốn nhà nước tại doanh nghiệp
 4	Tòa án nhân dân tối cao
 5	Viện kiểm sát nhân dân tối cao
 6	Kiểm soát nhà nước
 7	Ban Tôn giáo Chính phủ
 8	Ủy ban Biên giới quốc gia
 9	Ban Cơ yếu Chính phủ
-III	MẶT TRẬN TỔ QUỐC VÀ CÁC TỔ CHỨC CHÍNH TRỊ - XÃ HỘI THÀNH VIÊN
+III	MẶT TRẬN TỔ QUỐC VÀ CÁC TỔ CHỨC CHÍNH TRỊ - XÃ HỘI THÀNH VIÊN được sử dụng mạng bưu chính KT1
 1	Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
 2	Các tổ chức chính trị - xã hội 
-2.1		Tổng Liên đoàn Lao động Việt Nam
-2.2		Hội Nông dân Việt Nam
-2.3		Đoàn Thanh niên Cộng sản Hồ Chí Minh
-2.4		Hội Liên hiệp phụ nữ Việt Nam
-2.5		Hội Cựu chiến binh Việt Nam
+2.1	Tổng Liên đoàn Lao động Việt Nam
+2.2	Hội Nông dân Việt Nam
+2.3	Đoàn Thanh niên Cộng sản Hồ Chí Minh
+2.4	Hội Liên hiệp phụ nữ Việt Nam
+2.5	Hội Cựu chiến binh Việt Nam
+
 Phụ lục 02: danh sách các cơ quan, tổ chức ở địa phương được sử dụng mạng bưu chính KT1
 I	CẤP TỈNH
-1		Tỉnh ủy, thành ủy và các Ban của tỉnh ủy, thành ủy
+1	Tỉnh ủy, thành ủy và các Ban của tỉnh ủy, thành ủy
 1.1	Tỉnh ủy, thành ủy
 1.2	Ủy ban Kiểm tra Tỉnh ủy, thành ủy
 1.3	Ban Tổ chức Tỉnh ủy, thành ủy
 1.4	Ban Tuyên giáo Tỉnh ủy, thành ủy
 1.5	Ban Dân vận Tỉnh ủy, thành ủy
 1.6	Ban Nội chính Tỉnh ủy, thành ủy
-2		Đảng ủy khối Cơ quan tỉnh, thành phố
-3		Đảng ủy khối Doanh nghiệp tỉnh, thành phố
-4		Văn phòng đoàn Đại biểu Quốc hội và Hội đồng nhân dân
-5		Ủy ban nhân dân và các cơ quan chuyên môn trực thuộc
+2	Đảng ủy khối Cơ quan tỉnh, thành phố
+3	Đảng ủy khối Doanh nghiệp tỉnh, thành phố
+4	Văn phòng đoàn Đại biểu Quốc hội và Hội đồng nhân dân
+5	Ủy ban nhân dân và các cơ quan chuyên môn trực thuộc
 5.1	Sở Nội vụ
 5.2	Sở Tư pháp
 5.3	Sở Kế hoạch và Đầu tư
@@ -2239,47 +2240,46 @@ I	CẤP TỈNH
 5.18	Sở Ngoại vụ
 5.19	Ban Dân tộc
 5.20	Sở Quy hoạch – Kiến trúc
-6	Tòa án nhân dân
-7	Viện kiểm sát nhân dân
-8	Bộ chỉ huy Quân sự
-9	Ngân hàng nhà nước
+6	Tòa án nhân dân tỉnh
+7	Viện kiểm sát nhân dân tỉnh
+8	Bộ chỉ huy Quân sự tỉnh
+9	Ngân hàng nhà nước thuộc tỉnh
 10	Công an tỉnh
 11	Bảo hiểm xã hội
 12	Mặt trận Tổ quốc tỉnh và các tổ chức chính trị - xã hội thành viên 
-12.1	Mặt trận Tổ quốc
-12.2	Liên đoàn Lao động 
-12.3	Hội Nông dân 
-12.4	Đoàn Thanh niên 
-12.5	Hội Liên hiệp phụ nữ 
-12.6	Hội Cựu chiến binh 
+12.1	Mặt trận Tổ quốc cấp tỉnh
+12.2	Liên đoàn Lao động cấp tỉnh
+12.3	Hội Nông dân cấp tỉnh
+12.4	Đoàn Thanh niên cấp tỉnh
+12.5	Hội Liên hiệp phụ nữ cấp tỉnh
+12.6	Hội Cựu chiến binh cấp tỉnh
 II	danh sách các cơ quan, tổ chức ở cấp huyện được sử dụng mạng bưu chính KT1
 1	Huyện ủy
-2	Hội đồng nhân dân
-3	Ủy ban nhân dân 
+2	Hội đồng nhân dân huyện
+3	Ủy ban nhân dân huyện
 4	Tòa án nhân dân huyện
 5	Viện kiểm sát nhân dân huyện
 6	Ban chỉ huy quân sự huyện
 7	Công an huyện
 8	Bảo hiểm xã hội
 9	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
-9.1	Mặt trận Tổ quốc
-9.2	Liên đoàn Lao động 
-9.3	Hội Nông dân 
-9.4	Đoàn Thanh niên 
-9.5	Hội Liên hiệp phụ nữ 
-9.6	Hội Cựu chiến binh 
+9.1	Mặt trận Tổ quốc cấp huyện
+9.2	Liên đoàn Lao động cấp huyện
+9.3	Hội Nông dân cấp huyện
+9.4	Đoàn Thanh niên cấp huyện
+9.5	Hội Liên hiệp phụ nữ cấp huyện
+9.6	Hội Cựu chiến binh cấp huyện
 III	danh sách các cơ quan, tổ chức ở cấp xã được sử dụng mạng bưu chính KT1
-
-1	Đảng ủy
-2	Hội đồng nhân dân
-3	Ủy ban nhân dân 
-4	Công an
+1	Đảng ủy xã
+2	Hội đồng nhân dân cấp xã
+3	Ủy ban nhân dân cấp xã
+4	Công an xã
 5	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
-5.1	Mặt trận Tổ quốc
-5.3	Hội Nông dân 
-5.4	Đoàn Thanh niên 
-5.5	Hội Liên hiệp phụ nữ 
-5.6	Hội Cựu chiến binh 
+5.1	Mặt trận Tổ quốc cấp xã
+5.3	Hội Nông dân cấp xã
+5.4	Đoàn Thanh niên cấp xã
+5.5	Hội Liên hiệp phụ nữ cấp xã
+5.6	Hội Cựu chiến binh cấp xã
 IV	ĐƠN VỊ HÀNH CHÍNH KINH TẾ ĐẶC BIỆT
 
 Ngày 02/3/2025, Chính phủ ban hành Nghị định số 55/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ. Theo đó, có một số nội dung đáng chú ý như sau:
