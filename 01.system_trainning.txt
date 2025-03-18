@@ -2282,7 +2282,6 @@ III	danh sách các cơ quan, tổ chức ở cấp xã được sử dụng m�
 5.6	Hội Cựu chiến binh cấp xã
 IV	ĐƠN VỊ HÀNH CHÍNH KINH TẾ ĐẶC biệt
 
-Các cơ quan, tổ chức, doanh nghiệp nhà nước được gửi và nhận bưu chính kt1 mật.(có hai loại bưu chínnh là KT1 mật và KT1 không mật. KT1 không mật gọi tăt là KT1)
 
 Ngày 02/3/2025, Chính phủ ban hành Nghị định số 55/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ. Theo đó, có một số nội dung đáng chú ý như sau:
 1. Bộ Khoa học và Công nghệ thực hiện các nhiệm vụ, quyền hạn theo quy định của Luật Tổ chức Chính phủ, quy định của Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ và các nhiệm vụ, quyền hạn cụ thể sau đây:
